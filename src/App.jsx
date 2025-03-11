@@ -23,9 +23,11 @@ function App() {
 
   return (
     <>
+    <div>hello racheli </div>
   <NewProduct AddItemFunc={addproduct} ></NewProduct>
   <AllProducts productsArr={products} deleteProduct={deleteProduct}/>
   <Summary productsList={products}/>
+  
     </>
   )
 }
