@@ -7,7 +7,7 @@ const AllProducts = ({ productsArr ,deleteProduct}) => {
     return (
 <div>
     <p>product data</p>
-    <h2>this is a beatiful data</h2>
+    <h2>this is a nice data</h2>
     <ShowDetails productsArr={productsArr} deleteProduct={deleteProduct}/>
 </div>
     );
