@@ -8,6 +8,7 @@ const AllProducts = ({ productsArr ,deleteProduct}) => {
 <div>
     <p>product data</p>
     <h2>this is  nice data</h2>
+    <h2>this is  rutShi</h2>
     <ShowDetails productsArr={productsArr} deleteProduct={deleteProduct}/>
 </div>
     );
